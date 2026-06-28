@@ -1,16 +1,16 @@
 # 🐄 Aggressive Cows - Binary Search on Answer
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/GFG-Aggressive%20Cows-2F8D46?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Algorithm-Binary%20Search-orange?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+
+<img src="https://img.shields.io/badge/GFG-Aggressive%20Cows-2F8D46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithm-Binary%20Search-orange?style=for-the-badge"/>
+
+</p>
+
+
+
 
 ## 🚀 Idea
 
